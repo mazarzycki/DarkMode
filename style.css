@@ -1,0 +1,15 @@
+body {
+    margin: 10px 50px;
+    background-color: lightgray;
+}
+header {
+    border-bottom: solid 2px rgba(0, 0, 0, 0.733) ;
+}
+button {
+    margin: 10px;
+    border-radius: 20px;
+    outline: none;
+}
+#btnLight {
+    display: none;
+}
